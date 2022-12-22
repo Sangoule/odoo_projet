@@ -1,0 +1,343 @@
+2022-12-09 09:34:01,209 7976 INFO ? odoo: Odoo version 15.0-20221208 
+2022-12-09 09:34:01,209 7976 INFO ? odoo: Using configuration file at C:\Users\princen\Documents\oddo\server\odoo.conf 
+2022-12-09 09:34:01,209 7976 INFO ? odoo: addons paths: ['C:\\Users\\princen\\Documents\\oddo\\server\\odoo\\addons', 'c:\\users\\princen\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\users\\princen\\documents\\oddo\\server\\odoo\\addons'] 
+2022-12-09 09:34:01,209 7976 INFO ? odoo: database: openpg@localhost:5432 
+2022-12-09 09:34:03,116 7976 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\princen\Documents\oddo\thirdparty\wkhtmltopdf.exe 
+2022-12-09 09:34:06,211 7976 INFO ? odoo.service.server: Initiating shutdown 
+2022-12-09 09:34:06,211 7976 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2022-12-09 09:34:19,389 1252 INFO ? odoo: Odoo version 15.0-20221208 
+2022-12-09 09:34:19,389 1252 INFO ? odoo: Using configuration file at C:\Users\princen\Documents\oddo\server\odoo.conf 
+2022-12-09 09:34:19,389 1252 INFO ? odoo: addons paths: ['C:\\Users\\princen\\Documents\\oddo\\server\\odoo\\addons', 'c:\\users\\princen\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\users\\princen\\documents\\oddo\\server\\odoo\\addons'] 
+2022-12-09 09:34:19,389 1252 INFO ? odoo: database: openpg@localhost:5432 
+2022-12-09 09:34:20,399 1252 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\princen\Documents\oddo\thirdparty\wkhtmltopdf.exe 
+2022-12-09 09:34:21,867 1252 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-H5OE0EB.home:8069 
+2022-12-09 09:34:21,962 1252 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 09:34:21,962 1252 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 09:34:34,304 1252 INFO ? odoo.http: HTTP Configuring static files 
+2022-12-09 09:34:34,591 1252 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 09:34:34,591 1252 INFO ? odoo.http: Generating nondb routing 
+2022-12-09 09:34:34,700 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:34] "GET / HTTP/1.1" 303 - 0 0.000 0.326
+2022-12-09 09:34:34,790 1252 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 09:34:34,889 1252 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 09:34:34,889 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:34] "GET /web HTTP/1.1" 303 - 0 0.000 0.189
+2022-12-09 09:34:35,099 1252 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 09:34:35,369 1252 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 09:34:35,428 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:35] "GET /web/database/selector HTTP/1.1" 200 - 0 0.000 0.478
+2022-12-09 09:34:35,795 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:35] "GET /web/static/lib/fontawesome/css/font-awesome.css HTTP/1.1" 200 - - - -
+2022-12-09 09:34:35,795 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:35] "GET /web/static/lib/bootstrap/css/bootstrap.css HTTP/1.1" 200 - - - -
+2022-12-09 09:34:35,829 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:35] "GET /web/static/lib/jquery/jquery.js HTTP/1.1" 200 - - - -
+2022-12-09 09:34:35,829 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:35] "GET /web/static/lib/popper/popper.js HTTP/1.1" 200 - - - -
+2022-12-09 09:34:35,889 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:35] "GET /web/static/lib/bootstrap/js/index.js HTTP/1.1" 200 - - - -
+2022-12-09 09:34:36,016 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:36] "GET /web/static/lib/bootstrap/js/util.js HTTP/1.1" 200 - - - -
+2022-12-09 09:34:36,173 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:36] "GET /web/static/lib/bootstrap/js/alert.js HTTP/1.1" 200 - - - -
+2022-12-09 09:34:36,187 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:36] "GET /web/static/lib/bootstrap/js/button.js HTTP/1.1" 200 - - - -
+2022-12-09 09:34:36,232 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:36] "GET /web/static/lib/bootstrap/js/carousel.js HTTP/1.1" 200 - - - -
+2022-12-09 09:34:36,232 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:36] "GET /web/static/lib/bootstrap/js/collapse.js HTTP/1.1" 200 - - - -
+2022-12-09 09:34:36,326 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:36] "GET /web/static/lib/bootstrap/js/dropdown.js HTTP/1.1" 200 - - - -
+2022-12-09 09:34:36,412 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:36] "GET /web/static/lib/bootstrap/js/modal.js HTTP/1.1" 200 - - - -
+2022-12-09 09:34:36,524 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:36] "GET /web/static/lib/bootstrap/js/tooltip.js HTTP/1.1" 200 - - - -
+2022-12-09 09:34:36,524 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:36] "GET /web/static/lib/bootstrap/js/popover.js HTTP/1.1" 200 - - - -
+2022-12-09 09:34:36,524 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:36] "GET /web/static/lib/bootstrap/js/scrollspy.js HTTP/1.1" 200 - - - -
+2022-12-09 09:34:36,524 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:36] "GET /web/static/lib/bootstrap/js/tab.js HTTP/1.1" 200 - - - -
+2022-12-09 09:34:36,649 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:36] "GET /web/static/src/public/database_manager.js HTTP/1.1" 200 - - - -
+2022-12-09 09:34:36,932 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:36] "GET /web/static/img/logo2.png HTTP/1.1" 200 - - - -
+2022-12-09 09:34:37,784 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:37] "GET /web/static/lib/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 - - - -
+2022-12-09 09:34:38,028 1252 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 09:34:38] "GET /web/static/img/favicon.ico HTTP/1.1" 200 - - - -
+2022-12-09 09:36:49,743 1252 INFO ? odoo.service.server: Initiating shutdown 
+2022-12-09 09:36:49,743 1252 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2022-12-09 09:36:50,860 1252 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2022-12-09 10:25:59,824 7160 INFO ? odoo: Odoo version 15.0-20221208 
+2022-12-09 10:25:59,832 7160 INFO ? odoo: Using configuration file at C:\Users\princen\Documents\oddo\server\odoo.conf 
+2022-12-09 10:25:59,832 7160 INFO ? odoo: addons paths: ['C:\\Users\\princen\\Documents\\oddo\\server\\odoo\\addons', 'c:\\users\\princen\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\users\\princen\\documents\\oddo\\server\\odoo\\addons'] 
+2022-12-09 10:25:59,832 7160 INFO ? odoo: database: openpg@localhost:5432 
+2022-12-09 10:26:01,437 7160 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\princen\Documents\oddo\thirdparty\wkhtmltopdf.exe 
+2022-12-09 10:26:02,459 7160 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-H5OE0EB.home:8069 
+2022-12-09 10:26:02,558 7160 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:26:02,657 7160 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:26:09,006 7160 INFO ? odoo.http: HTTP Configuring static files 
+2022-12-09 10:26:09,176 7160 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:26:09,176 7160 INFO ? odoo.http: Generating nondb routing 
+2022-12-09 10:26:09,185 7160 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 10:26:09] "GET / HTTP/1.1" 303 - 0 0.000 0.179
+2022-12-09 10:26:09,297 7160 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:26:09,406 7160 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:26:09,406 7160 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 10:26:09] "GET /web HTTP/1.1" 303 - 0 0.000 0.221
+2022-12-09 10:26:09,502 7160 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:26:09,718 7160 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:26:09,884 7160 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 10:26:09] "GET /web/database/selector HTTP/1.1" 200 - 0 0.000 0.478
+2022-12-09 10:28:30,504 7160 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:28:30,539 7160 INFO None odoo.service.db: Create database `princen`. 
+2022-12-09 10:28:30,668 7160 INFO None odoo.sql_db: Connection to the database failed 
+2022-12-09 10:28:30,668 7160 ERROR None odoo.http:  
+Traceback (most recent call last):
+  File "C:\Users\princen\Documents\oddo\server\odoo\http.py", line 141, in dispatch_rpc
+    result = dispatch(method, params)
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\db.py", line 462, in dispatch
+    return g[exp_method_name](*params)
+  File "<decorator-gen-14>", line 2, in exp_create_database
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\db.py", line 41, in if_db_mgt_enabled
+    return method(self, *args, **kwargs)
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\db.py", line 130, in exp_create_database
+    _create_empty_database(db_name)
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\db.py", line 99, in _create_empty_database
+    with closing(db.cursor()) as cr:
+  File "C:\Users\princen\Documents\oddo\server\odoo\sql_db.py", line 709, in cursor
+    return Cursor(self.__pool, self.dbname, self.dsn, serialized=serialized)
+  File "C:\Users\princen\Documents\oddo\server\odoo\sql_db.py", line 259, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "C:\Users\princen\Documents\oddo\server\odoo\sql_db.py", line 592, in _locked
+    return fun(self, *args, **kwargs)
+  File "C:\Users\princen\Documents\oddo\server\odoo\sql_db.py", line 660, in borrow
+    **connection_info)
+  File "C:\Program Files\Odoo 15.0.20221208\python\lib\site-packages\psycopg2\__init__.py", line 127, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError
+2022-12-09 10:28:30,783 7160 INFO None odoo.sql_db: Connection to the database failed 
+2022-12-09 10:28:30,872 7160 INFO None werkzeug: 127.0.0.1 - - [09/Dec/2022 10:28:30] "POST /web/database/create HTTP/1.1" 200 - 0 0.000 0.566
+2022-12-09 10:30:00,285 7160 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:30:00,509 7160 INFO None odoo.sql_db: Connection to the database failed 
+2022-12-09 10:30:00,538 7160 INFO None werkzeug: 127.0.0.1 - - [09/Dec/2022 10:30:00] "POST /web/database/create HTTP/1.1" 200 - 0 0.000 0.334
+2022-12-09 10:33:54,047 7160 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:33:54,047 7160 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 10:33:54] "GET / HTTP/1.1" 303 - 0 0.000 0.084
+2022-12-09 10:33:54,154 7160 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:33:54,233 7160 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:33:54,233 7160 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 10:33:54] "GET /web HTTP/1.1" 303 - 0 0.000 0.145
+2022-12-09 10:33:54,379 7160 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:33:54,498 7160 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:33:54,561 7160 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 10:33:54] "GET /web/database/selector HTTP/1.1" 200 - 0 0.000 0.297
+2022-12-09 10:34:51,854 7160 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:34:51,854 7160 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 10:34:51] "GET / HTTP/1.1" 303 - 0 0.000 0.097
+2022-12-09 10:34:51,961 7160 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:34:52,024 7160 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:34:52,024 7160 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 10:34:52] "GET /web HTTP/1.1" 303 - 0 0.000 0.145
+2022-12-09 10:34:52,133 7160 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:34:52,308 7160 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:34:52,362 7160 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 10:34:52] "GET /web/database/selector HTTP/1.1" 200 - 0 0.000 0.338
+2022-12-09 10:37:16,016 7160 INFO ? odoo.service.server: Initiating shutdown 
+2022-12-09 10:37:16,016 7160 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2022-12-09 10:37:16,452 7160 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2022-12-09 10:37:25,848 4948 INFO ? odoo: Odoo version 15.0-20221208 
+2022-12-09 10:37:25,848 4948 INFO ? odoo: Using configuration file at C:\Users\princen\Documents\oddo\server\odoo.conf 
+2022-12-09 10:37:25,848 4948 INFO ? odoo: addons paths: ['C:\\Users\\princen\\Documents\\oddo\\server\\odoo\\addons', 'c:\\users\\princen\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\users\\princen\\documents\\oddo\\server\\odoo\\addons'] 
+2022-12-09 10:37:25,848 4948 INFO ? odoo: database: openpg@localhost:5432 
+2022-12-09 10:37:26,122 4948 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\princen\Documents\oddo\thirdparty\wkhtmltopdf.exe 
+2022-12-09 10:37:26,630 4948 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-H5OE0EB.home:8069 
+2022-12-09 10:37:26,696 4948 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:37:26,769 4948 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:37:42,928 4948 INFO ? odoo.http: HTTP Configuring static files 
+2022-12-09 10:37:43,216 4948 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:37:43,216 4948 INFO ? odoo.http: Generating nondb routing 
+2022-12-09 10:37:43,216 4948 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 10:37:43] "GET / HTTP/1.1" 303 - 0 0.000 0.219
+2022-12-09 10:37:43,317 4948 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:37:43,685 4948 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:37:43,685 4948 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 10:37:43] "GET /web HTTP/1.1" 303 - 0 0.000 0.470
+2022-12-09 10:37:44,153 4948 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:37:44,273 4948 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:37:44,526 4948 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 10:37:44] "GET /web/database/selector HTTP/1.1" 200 - 0 0.000 0.682
+2022-12-09 10:38:20,568 4948 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:38:20,738 4948 INFO None odoo.sql_db: Connection to the database failed 
+2022-12-09 10:38:20,793 4948 INFO None werkzeug: 127.0.0.1 - - [09/Dec/2022 10:38:20] "POST /web/database/create HTTP/1.1" 200 - 0 0.000 0.379
+2022-12-09 10:38:40,179 4948 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:38:40,179 4948 INFO None odoo.service.db: Create database `princen`. 
+2022-12-09 10:38:40,299 4948 INFO None odoo.sql_db: Connection to the database failed 
+2022-12-09 10:38:40,299 4948 ERROR None odoo.http:  
+Traceback (most recent call last):
+  File "C:\Users\princen\Documents\oddo\server\odoo\http.py", line 141, in dispatch_rpc
+    result = dispatch(method, params)
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\db.py", line 462, in dispatch
+    return g[exp_method_name](*params)
+  File "<decorator-gen-14>", line 2, in exp_create_database
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\db.py", line 41, in if_db_mgt_enabled
+    return method(self, *args, **kwargs)
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\db.py", line 130, in exp_create_database
+    _create_empty_database(db_name)
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\db.py", line 99, in _create_empty_database
+    with closing(db.cursor()) as cr:
+  File "C:\Users\princen\Documents\oddo\server\odoo\sql_db.py", line 709, in cursor
+    return Cursor(self.__pool, self.dbname, self.dsn, serialized=serialized)
+  File "C:\Users\princen\Documents\oddo\server\odoo\sql_db.py", line 259, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "C:\Users\princen\Documents\oddo\server\odoo\sql_db.py", line 592, in _locked
+    return fun(self, *args, **kwargs)
+  File "C:\Users\princen\Documents\oddo\server\odoo\sql_db.py", line 660, in borrow
+    **connection_info)
+  File "C:\Program Files\Odoo 15.0.20221208\python\lib\site-packages\psycopg2\__init__.py", line 127, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError
+2022-12-09 10:38:40,368 4948 INFO None odoo.sql_db: Connection to the database failed 
+2022-12-09 10:38:40,517 4948 INFO None werkzeug: 127.0.0.1 - - [09/Dec/2022 10:38:40] "POST /web/database/create HTTP/1.1" 200 - 0 0.000 0.418
+2022-12-09 10:40:11,991 4948 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:40:12,110 4948 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:40:12,110 4948 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 10:40:12] "GET /web/ HTTP/1.1" 303 - 0 0.000 0.242
+2022-12-09 10:40:12,214 4948 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:40:12,317 4948 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:40:12,384 4948 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 10:40:12] "GET /web/database/selector HTTP/1.1" 200 - 0 0.000 0.275
+2022-12-09 10:41:34,531 4948 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 10:41:34,547 4948 INFO None odoo.service.db: Create database `princen`. 
+2022-12-09 10:41:34,664 4948 INFO None odoo.sql_db: Connection to the database failed 
+2022-12-09 10:41:34,664 4948 ERROR None odoo.http:  
+Traceback (most recent call last):
+  File "C:\Users\princen\Documents\oddo\server\odoo\http.py", line 141, in dispatch_rpc
+    result = dispatch(method, params)
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\db.py", line 462, in dispatch
+    return g[exp_method_name](*params)
+  File "<decorator-gen-14>", line 2, in exp_create_database
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\db.py", line 41, in if_db_mgt_enabled
+    return method(self, *args, **kwargs)
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\db.py", line 130, in exp_create_database
+    _create_empty_database(db_name)
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\db.py", line 99, in _create_empty_database
+    with closing(db.cursor()) as cr:
+  File "C:\Users\princen\Documents\oddo\server\odoo\sql_db.py", line 709, in cursor
+    return Cursor(self.__pool, self.dbname, self.dsn, serialized=serialized)
+  File "C:\Users\princen\Documents\oddo\server\odoo\sql_db.py", line 259, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "C:\Users\princen\Documents\oddo\server\odoo\sql_db.py", line 592, in _locked
+    return fun(self, *args, **kwargs)
+  File "C:\Users\princen\Documents\oddo\server\odoo\sql_db.py", line 660, in borrow
+    **connection_info)
+  File "C:\Program Files\Odoo 15.0.20221208\python\lib\site-packages\psycopg2\__init__.py", line 127, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError
+2022-12-09 10:41:34,818 4948 INFO None odoo.sql_db: Connection to the database failed 
+2022-12-09 10:41:34,838 4948 INFO None werkzeug: 127.0.0.1 - - [09/Dec/2022 10:41:34] "POST /web/database/create HTTP/1.1" 200 - 0 0.000 0.400
+2022-12-09 10:42:13,880 4948 INFO ? odoo.service.server: Initiating shutdown 
+2022-12-09 10:42:13,880 4948 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2022-12-09 10:42:14,022 4948 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2022-12-09 16:44:10,555 8096 INFO ? odoo: Odoo version 15.0-20221208 
+2022-12-09 16:44:10,555 8096 INFO ? odoo: Using configuration file at c:\Users\princen\Documents\oddo\server\odoo.conf 
+2022-12-09 16:44:10,555 8096 INFO ? odoo: addons paths: ['c:\\Users\\princen\\Documents\\oddo\\server\\odoo\\addons', 'c:\\users\\princen\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\users\\princen\\documents\\oddo\\server\\odoo\\addons'] 
+2022-12-09 16:44:10,555 8096 INFO ? odoo: database: openpg@localhost:5432 
+2022-12-09 16:44:11,366 8096 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\princen\Documents\oddo\thirdparty\wkhtmltopdf.exe 
+2022-12-09 16:44:12,383 8096 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-H5OE0EB.uadb.edu.sn:8069 
+2022-12-09 16:44:12,383 8096 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 16:44:12,875 8096 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 16:47:16,561 8096 INFO ? odoo.service.server: Initiating shutdown 
+2022-12-09 16:47:16,561 8096 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2022-12-09 16:47:17,072 8096 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2022-12-09 18:02:27,808 4380 INFO ? odoo: Odoo version 15.0-20221208 
+2022-12-09 18:02:27,808 4380 INFO ? odoo: Using configuration file at C:\Users\princen\Documents\oddo\server\odoo.conf 
+2022-12-09 18:02:27,808 4380 INFO ? odoo: addons paths: ['C:\\Users\\princen\\Documents\\oddo\\server\\odoo\\addons', 'c:\\users\\princen\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\users\\princen\\documents\\oddo\\server\\odoo\\addons', 'c:\\users\\princen\\documents\\oddo\\server\\odoo\\customaddons'] 
+2022-12-09 18:02:27,808 4380 INFO ? odoo: database: openpg@localhost:5432 
+2022-12-09 18:02:28,523 4380 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\princen\Documents\oddo\thirdparty\wkhtmltopdf.exe 
+2022-12-09 18:02:29,322 4380 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-H5OE0EB.uadb.edu.sn:8069 
+2022-12-09 18:02:29,380 4380 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 18:02:29,441 4380 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 18:03:58,531 6332 INFO ? odoo: Odoo version 15.0-20221208 
+2022-12-09 18:03:58,531 6332 INFO ? odoo: Using configuration file at C:\Users\princen\Documents\oddo\server\odoo.conf 
+2022-12-09 18:03:58,531 6332 INFO ? odoo: addons paths: ['C:\\Users\\princen\\Documents\\oddo\\server\\odoo\\addons', 'c:\\users\\princen\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\users\\princen\\documents\\oddo\\server\\odoo\\addons', 'c:\\users\\princen\\documents\\oddo\\server\\odoo\\customaddons'] 
+2022-12-09 18:03:58,531 6332 INFO ? odoo: database: openpg@localhost:5432 
+2022-12-09 18:03:58,816 6332 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\princen\Documents\oddo\thirdparty\wkhtmltopdf.exe 
+2022-12-09 18:03:59,225 6332 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-H5OE0EB.uadb.edu.sn:8069 
+2022-12-09 18:03:59,320 6332 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 18:03:59,502 6332 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 18:04:32,775 6332 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 18:04:32,775 6332 INFO ? odoo.http: Generating nondb routing 
+2022-12-09 18:04:32,775 6332 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 18:04:32] "GET / HTTP/1.1" 303 - 0 0.000 0.043
+2022-12-09 18:04:33,509 6332 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 18:04:34,557 6332 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 18:04:34,557 6332 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 18:04:34] "GET /web HTTP/1.1" 303 - 0 0.000 1.342
+2022-12-09 18:04:34,697 6332 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 18:04:34,933 6332 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 18:04:35,026 6332 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 18:04:35] "GET /web/database/selector HTTP/1.1" 200 - 0 0.000 0.356
+2022-12-09 18:04:37,851 6332 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 18:04:37] "GET / HTTP/1.1" 500 - - - -
+2022-12-09 18:04:37,882 6332 ERROR ? werkzeug: Error on request:
+Traceback (most recent call last):
+  File "C:\Users\princen\Documents\oddo\python\lib\site-packages\werkzeug\serving.py", line 306, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\princen\Documents\oddo\python\lib\site-packages\werkzeug\serving.py", line 294, in execute
+    application_iter = app(environ, start_response)
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\server.py", line 482, in app
+    return self.app(e, s)
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\wsgi_server.py", line 112, in application
+    return application_unproxied(environ, start_response)
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\wsgi_server.py", line 87, in application_unproxied
+    result = odoo.http.root(environ, start_response)
+  File "C:\Users\princen\Documents\oddo\server\odoo\http.py", line 1340, in __call__
+    self.load_addons()
+  File "C:\Users\princen\Documents\oddo\server\odoo\http.py", line 1350, in load_addons
+    for module in sorted(os.listdir(str(addons_path))):
+FileNotFoundError: [WinError 3] Le chemin d’accès spécifié est introuvable: 'c:\\users\\princen\\documents\\oddo\\server\\odoo\\customaddons' - - -
+2022-12-09 18:05:57,720 6332 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 18:05:57,907 6332 INFO None odoo.sql_db: Connection to the database failed 
+2022-12-09 18:05:57,965 6332 INFO None werkzeug: 127.0.0.1 - - [09/Dec/2022 18:05:57] "POST /web/database/create HTTP/1.1" 200 - 0 0.000 0.369
+2022-12-09 18:07:46,265 6332 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 18:07:46,436 6332 INFO None odoo.sql_db: Connection to the database failed 
+2022-12-09 18:07:46,477 6332 INFO None werkzeug: 127.0.0.1 - - [09/Dec/2022 18:07:46] "POST /web/database/create HTTP/1.1" 200 - 0 0.000 0.299
+2022-12-09 18:10:37,756 1696 INFO ? odoo: Odoo version 15.0-20221208 
+2022-12-09 18:10:37,756 1696 INFO ? odoo: Using configuration file at C:\Users\princen\Documents\oddo\server\odoo.conf 
+2022-12-09 18:10:37,756 1696 INFO ? odoo: addons paths: ['C:\\Users\\princen\\Documents\\oddo\\server\\odoo\\addons', 'c:\\users\\princen\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\users\\princen\\documents\\oddo\\server\\odoo\\addons', 'c:\\users\\princen\\documents\\oddo\\server\\odoo\\customaddons'] 
+2022-12-09 18:10:37,756 1696 INFO ? odoo: database: openpg@localhost:5432 
+2022-12-09 18:10:38,187 1696 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\princen\Documents\oddo\thirdparty\wkhtmltopdf.exe 
+2022-12-09 18:10:39,497 1696 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-H5OE0EB.uadb.edu.sn:8069 
+2022-12-09 18:10:39,686 1696 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 18:10:39,891 1696 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 18:11:40,501 1696 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 18:11:40] "POST /web/database/create HTTP/1.1" 500 - - - -
+2022-12-09 18:11:40,533 1696 ERROR ? werkzeug: Error on request:
+Traceback (most recent call last):
+  File "C:\Users\princen\Documents\oddo\python\lib\site-packages\werkzeug\serving.py", line 306, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\princen\Documents\oddo\python\lib\site-packages\werkzeug\serving.py", line 294, in execute
+    application_iter = app(environ, start_response)
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\server.py", line 482, in app
+    return self.app(e, s)
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\wsgi_server.py", line 112, in application
+    return application_unproxied(environ, start_response)
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\wsgi_server.py", line 87, in application_unproxied
+    result = odoo.http.root(environ, start_response)
+  File "C:\Users\princen\Documents\oddo\server\odoo\http.py", line 1340, in __call__
+    self.load_addons()
+  File "C:\Users\princen\Documents\oddo\server\odoo\http.py", line 1350, in load_addons
+    for module in sorted(os.listdir(str(addons_path))):
+FileNotFoundError: [WinError 3] Le chemin d’accès spécifié est introuvable: 'c:\\users\\princen\\documents\\oddo\\server\\odoo\\customaddons' - - -
+2022-12-09 18:11:40,740 1696 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 18:11:40,740 1696 INFO ? odoo.http: Generating nondb routing 
+2022-12-09 18:11:40,740 1696 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 18:11:40] "GET /favicon.ico HTTP/1.1" 404 - 0 0.000 0.109
+2022-12-09 18:11:52,385 1696 INFO ? odoo.service.server: Initiating shutdown 
+2022-12-09 18:11:52,385 1696 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2022-12-09 18:11:53,395 1696 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2022-12-09 18:12:27,627 7964 INFO ? odoo: Odoo version 15.0-20221208 
+2022-12-09 18:12:27,627 7964 INFO ? odoo: Using configuration file at C:\Users\princen\Documents\oddo\server\odoo.conf 
+2022-12-09 18:12:27,627 7964 INFO ? odoo: addons paths: ['C:\\Users\\princen\\Documents\\oddo\\server\\odoo\\addons', 'c:\\users\\princen\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\users\\princen\\documents\\oddo\\server\\odoo\\addons', 'c:\\users\\princen\\documents\\oddo\\server\\odoo\\customaddons'] 
+2022-12-09 18:12:27,627 7964 INFO ? odoo: database: openpg@localhost:5432 
+2022-12-09 18:12:27,916 7964 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\princen\Documents\oddo\thirdparty\wkhtmltopdf.exe 
+2022-12-09 18:12:28,360 7964 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-H5OE0EB.uadb.edu.sn:8069 
+2022-12-09 18:12:28,450 7964 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 18:12:28,626 7964 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 18:12:45,227 7964 INFO ? werkzeug: 127.0.0.1 - - [09/Dec/2022 18:12:45] "POST /web/database/create HTTP/1.1" 500 - - - -
+2022-12-09 18:12:45,231 7964 ERROR ? werkzeug: Error on request:
+Traceback (most recent call last):
+  File "C:\Users\princen\Documents\oddo\python\lib\site-packages\werkzeug\serving.py", line 306, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\princen\Documents\oddo\python\lib\site-packages\werkzeug\serving.py", line 294, in execute
+    application_iter = app(environ, start_response)
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\server.py", line 482, in app
+    return self.app(e, s)
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\wsgi_server.py", line 112, in application
+    return application_unproxied(environ, start_response)
+  File "C:\Users\princen\Documents\oddo\server\odoo\service\wsgi_server.py", line 87, in application_unproxied
+    result = odoo.http.root(environ, start_response)
+  File "C:\Users\princen\Documents\oddo\server\odoo\http.py", line 1340, in __call__
+    self.load_addons()
+  File "C:\Users\princen\Documents\oddo\server\odoo\http.py", line 1350, in load_addons
+    for module in sorted(os.listdir(str(addons_path))):
+FileNotFoundError: [WinError 3] Le chemin d’accès spécifié est introuvable: 'c:\\users\\princen\\documents\\oddo\\server\\odoo\\customaddons' - - -
+2022-12-09 18:17:31,172 7964 INFO ? odoo.service.server: Initiating shutdown 
+2022-12-09 18:17:31,172 7964 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2022-12-09 18:17:31,622 7964 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2022-12-09 18:18:26,972 5616 INFO ? odoo: Odoo version 15.0-20221208 
+2022-12-09 18:18:26,972 5616 INFO ? odoo: Using configuration file at C:\Users\princen\Documents\oddo\server\odoo.conf 
+2022-12-09 18:18:26,972 5616 INFO ? odoo: addons paths: ['C:\\Users\\princen\\Documents\\oddo\\server\\odoo\\addons', 'c:\\users\\princen\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\users\\princen\\documents\\oddo\\server\\odoo\\customaddons', 'c:\\users\\princen\\documents\\oddo\\server\\odoo\\addons'] 
+2022-12-09 18:18:26,972 5616 INFO ? odoo: database: openpg@localhost:5432 
+2022-12-09 18:18:27,237 5616 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\princen\Documents\oddo\thirdparty\wkhtmltopdf.exe 
+2022-12-09 18:18:27,696 5616 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-H5OE0EB.uadb.edu.sn:8069 
+2022-12-09 18:18:27,760 5616 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 18:18:27,877 5616 INFO ? odoo.sql_db: Connection to the database failed 
+2022-12-09 18:22:15,860 5616 INFO ? odoo.service.server: Initiating shutdown 
+2022-12-09 18:22:15,860 5616 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2022-12-09 18:22:16,314 5616 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2022-12-09 18:22:26,877 5280 INFO ? odoo: Odoo version 15.0-20221208 
+2022-12-09 18:22:26,877 5280 INFO ? odoo: Using configuration file at C:\Users\princen\Documents\oddo\server\odoo.conf 
+2022-12-09 18:22:26,877 5280 INFO ? odoo: addons paths: ['C:\\Users\\princen\\Documents\\oddo\\server\\odoo\\addons', 'c:\\users\\princen\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\users\\princen\\documents\\oddo\\server\\odoo\\customaddons', 'c:\\users\\princen\\documents\\oddo\\server\\odoo\\addons'] 
+2022-12-09 18:22:26,877 5280 INFO ? odoo: database: princen@localhost:5432 
+2022-12-09 18:22:27,125 5280 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\princen\Documents\oddo\thirdparty\wkhtmltopdf.exe 
+2022-12-09 18:22:27,616 5280 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-H5OE0EB.uadb.edu.sn:8069 
